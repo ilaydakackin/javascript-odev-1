@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(54, 54, 54);
+    font-family: "Abel", sans-serif;
+    font-size: 32px;
+margin: 0;
+padding: 0;
+}
+.content{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+#logo{
+    color: orange;
+    display:flex ;
+    justify-content: center;
+}
+#zaman{
+    color: orange;
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;  
+}
+#info{
+    color: orange;
+    display: flex;
+    justify-content: center;
+ 
+}
+
+#text{
+    width: 1000px;
+    color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 20px;  
+} 
